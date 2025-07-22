@@ -19,7 +19,7 @@ Download the latest release from the [Releases](https://github.com/mcjose256/fas
 - Interactive chatbot for quick queries
 
 ## Privacy Policy
-This app collects minimal data (e.g., user IDs for authentication) via Firebase. Read our [Privacy Policy](https://your-privacy-policy-url) for details.
+This app collects minimal data (e.g., user IDs for authentication) via Firebase. Read our [Privacy Policy](https://mcjose256.github.io/fast-connect/privacy-policy.html) for details.
 
 ## Contact
 For feedback, contact [jakandwanaho@must.ac.ug].
